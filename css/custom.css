@@ -148,7 +148,10 @@ ul.ipir {
 
    }
 
-   
+   .paralpos {
+    background-position: 100% 20% !important;
+}
+
 
    
 
@@ -161,6 +164,10 @@ ul.ipir {
     
     .mbpadtop {
         padding-top: 150px;
+    }
+
+    .paralpos {
+        background-position: 50% 50% !important;
     }
 
     
