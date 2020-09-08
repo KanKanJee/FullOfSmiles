@@ -81,10 +81,10 @@ noscript div {
 
 }
 
-p {
-    font-size: 15px;
+p, li {
+    font-size: 17px;
 }
-li {
+span {
     font-size: 15px;
 }
 
@@ -132,6 +132,10 @@ ul.ipir {
     color: #fff;
    }
 
+   .close-modal-white {
+    color: #fff;
+}
+
     .flex-control-nav li a {
         background: none;
         border: 2px solid #fff;
@@ -139,9 +143,15 @@ ul.ipir {
         height: 10px;
     }
 
-   .close-modal { 
-    color: #fff;
-   }
+    .plr0 {
+        padding: 0 0;
+    }
+
+    .m0 {
+        margin: 0 0;
+    }
+
+   
 
    .fill-modal{
        border: 2px solid;
