@@ -4,8 +4,12 @@ li {
     font-size: 17px !important;
 }
 
-.hero-pos {
+/*.hero-pos {
     background-position: 50% 35% !important;
+} */
+
+.hero-pos {
+    background-position: 0% 80% !important; 
 } 
 
 .vph {
