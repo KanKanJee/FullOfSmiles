@@ -9,7 +9,7 @@ li {
 } */
 
 .hero-pos {
-    background-position: 0% 80% !important; 
+    background-position: top !important; 
 } 
 
 .vph {
@@ -292,7 +292,7 @@ ul.ipir {
     }
 
     .hero-pos {
-        background-position: 60% 80% !important; 
+        background-position: 60% 0% !important; 
     } 
 
 
