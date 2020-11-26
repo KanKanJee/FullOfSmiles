@@ -291,6 +291,10 @@ ul.ipir {
         }
     }
 
+    .hero-pos {
+        background-position: 60% 80% !important; 
+    } 
+
 
     @media all and (max-width: 530px) {
         text-cta {
