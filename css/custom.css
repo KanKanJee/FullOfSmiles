@@ -4,8 +4,12 @@ li {
     font-size: 17px !important;
 }
 
-.hero-pos {
+/*.hero-pos {
     background-position: 50% 35% !important;
+} */
+
+.hero-pos {
+    background-position: top !important; 
 } 
 
 .vph {
@@ -286,6 +290,10 @@ ul.ipir {
             line-height: 30px;
         }
     }
+
+    .hero-pos {
+        background-position: 60% 0% !important; 
+    } 
 
 
     @media all and (max-width: 530px) {
